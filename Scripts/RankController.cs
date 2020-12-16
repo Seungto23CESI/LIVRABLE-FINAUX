@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RankController : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is called before the first frame update.
 
     public GameManager gameManager;
 
